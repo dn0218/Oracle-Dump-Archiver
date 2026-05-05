@@ -36,7 +36,7 @@ Oracle Data Pump exports frequently generate many `.dump` files across different
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/oracle-dump-archiver.git
+   git clone https://github.com/dn0218/oracle-dump-archiver.git
    cd oracle-dump-archiver
    ```
    
