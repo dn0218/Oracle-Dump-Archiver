@@ -51,3 +51,17 @@ Oracle Data Pump exports frequently generate many `.dump` files across different
    ```bash
    ./compress_dump.sh
    ```
+
+5. Result
+
+Before compress:
+<img width="1063" height="854" alt="Screenshot 2026-05-05 142831" src="https://github.com/user-attachments/assets/85e467d1-2b0d-4131-958d-9f7b0dd34c52" />
+
+Test Archieve Date:
+<img width="1069" height="652" alt="Screenshot 2026-05-05 142837" src="https://github.com/user-attachments/assets/96b8bdfb-ca39-4cbb-ba4f-952fee0a4a79" />
+
+After compress: 
+<img width="828" height="201" alt="Screenshot 2026-05-05 142913" src="https://github.com/user-attachments/assets/4894a610-98a0-4b33-bec1-29ed09a1d6c3" />
+
+Log:
+<img width="1002" height="600" alt="Screenshot 2026-05-05 143611" src="https://github.com/user-attachments/assets/6b16fd79-9b5a-42bc-9376-0726f9e7d11c" />
